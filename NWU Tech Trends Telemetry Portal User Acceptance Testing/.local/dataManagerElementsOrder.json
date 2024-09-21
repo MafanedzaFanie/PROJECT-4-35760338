@@ -1,0 +1,71 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "Email&Sequence_20",
+        "Password&Sequence_20",
+        "TestDataFilePath&Sequence_20",
+        "toTest&Sequence_20",
+        "dtClients&Sequence_20",
+        "dtProjects&Sequence_20"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Login.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [
+        "Email",
+        "Password"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Client.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "dtClients&Sequence_2",
+        "TestDataFilePath&Sequence_2",
+        "exist&Sequence_2",
+        "i&Sequence_2"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "toTest",
+        "TestDataFilePath"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Project.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "dtProjects&Sequence_2",
+        "variable&Sequence_2",
+        "TestDataFilePath&Sequence_2",
+        "i&Sequence_2",
+        "exist&Sequence_3"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "toTest",
+        "TestDataFilePath"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}

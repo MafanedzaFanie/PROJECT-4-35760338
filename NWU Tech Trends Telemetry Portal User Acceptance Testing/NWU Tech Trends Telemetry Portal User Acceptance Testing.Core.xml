@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>NWU Tech Trends Telemetry Portal User Acceptance Testing.Core</name>
+    </assembly>
+    <members>
+        <member name="M:NWUTechTrendsTelemetryPortalUserAcceptanceTesting.WorkflowRunnerService.Main(System.String,System.String)">
+            <summary>
+            Invokes the Main.xaml
+            </summary>
+        </member>
+        <member name="M:NWUTechTrendsTelemetryPortalUserAcceptanceTesting.WorkflowRunnerService.Login">
+            <summary>
+            Invokes the Login.cs
+            </summary>
+        </member>
+    </members>
+</doc>

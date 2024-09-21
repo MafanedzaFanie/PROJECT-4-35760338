@@ -1,0 +1,80 @@
+{
+  "name": "NWU Tech Trends Telemetry Portal User Acceptance Testing",
+  "projectId": "340e5a3e-28d0-43ed-9977-95b3fc470e68",
+  "description": "RPA and Testing",
+  "main": "Main.xaml",
+  "dependencies": {
+    "UiPath.Excel.Activities": "[2.24.0-preview]",
+    "UiPath.Mail.Activities": "[1.23.11]",
+    "UiPath.System.Activities": "[24.11.0-preview]",
+    "UiPath.Testing.Activities": "[24.10.0]",
+    "UiPath.UIAutomation.Activities": "[24.11.1-preview]"
+  },
+  "webServices": [],
+  "entitiesStores": [],
+  "schemaVersion": "4.0",
+  "studioVersion": "24.10.4.0",
+  "projectVersion": "1.0.1",
+  "runtimeOptions": {
+    "autoDispose": false,
+    "netFrameworkLazyLoading": false,
+    "isPausable": true,
+    "isAttended": false,
+    "requiresUserInteraction": true,
+    "supportsPersistence": false,
+    "workflowSerialization": "DataContract",
+    "excludedLoggedData": [
+      "Private:*",
+      "*password*"
+    ],
+    "executionType": "Workflow",
+    "readyForPiP": false,
+    "startsInPiP": false,
+    "mustRestoreAllDependencies": true,
+    "pipType": "ChildSession"
+  },
+  "designOptions": {
+    "projectProfile": "Developement",
+    "outputType": "Process",
+    "libraryOptions": {
+      "includeOriginalXaml": false,
+      "privateWorkflows": []
+    },
+    "processOptions": {
+      "ignoredFiles": []
+    },
+    "fileInfoCollection": [],
+    "saveToCloud": false
+  },
+  "expressionLanguage": "VisualBasic",
+  "entryPoints": [
+    {
+      "filePath": "Main.xaml",
+      "uniqueId": "d2332702-5876-45dd-87e8-d0bf236a5294",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "Login.xaml",
+      "uniqueId": "491946e5-b02c-41a4-9940-18d64ae5a0c7",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "Client.xaml",
+      "uniqueId": "799160ca-8034-40cc-8f46-c84b7163fc12",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "Project.xaml",
+      "uniqueId": "28a34640-57e1-4e23-b167-cc2ba95b9298",
+      "input": [],
+      "output": []
+    }
+  ],
+  "isTemplate": false,
+  "templateProjectData": {},
+  "publishData": {},
+  "targetFramework": "Windows"
+}
